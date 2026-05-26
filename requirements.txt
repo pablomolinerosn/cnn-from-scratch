@@ -1,0 +1,6 @@
+tensorflow[and-cuda]
+numpy
+matplotlib
+scikit-learn
+jupyter
+ipykernel
